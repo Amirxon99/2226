@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.hero {
+  background-color: #01aee7;
+  height: 183px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+p {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+  color: #fff500;
+  padding-top: 17px;
+  padding-bottom: 23px;
+}
+h1 {
+  color: white;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+  padding-bottom: 22px;
+}
+h4 {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 27px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+.k {
+  margin: 100px auto;
+  margin-left: px;
+}
+.tex {
+  text-align: center;
+  background: #d9d9d9;
+  height: 670px;
+  width: 100%;
+  padding: 50px;
+}
+.hero2 .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero2 h2 {
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 28px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+  color: #01aee7;
+  padding-bottom: 48px;
+  width: 528px;
+  height: 72px;
+  margin-bottom: 100px;
+}
+h5 {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+  color: #000;
+}
+h6 {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-transform: lowercase;
+  color: #01aee7;
+}
+h3 {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-transform: capitalize;
+  color: #000;
+  margin: 50px;
+}

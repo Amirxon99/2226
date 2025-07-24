@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.hero {
+    height: 672px;
+    background-image: url(./home1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 289px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 34px;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    background: #01AEE7;
+    box-shadow: 0px 10px 40px 0px #FFFFFF;
+    border: none;
+    color: white;
+    font-size: 38px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.true {
+    background: #01AEE7;
+    padding: 70px 0;
+}
+
+.true h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+.fitness {
+    padding: 70px 0;
+}
+
+.fitness .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fitness h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 60px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.fitness h1 span {
+    color: #01AEE7;
+}
+
+.fitness h3 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    margin-top: 73px;
+    margin-bottom: 24px;
+}
+
+.fitness h2 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    color: #01AEE7;
+}
+
+.service {
+    background: #F5F5F5;
+    padding: 100px 0;
+}
+
+.service {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.gg {
+    width: 684px;
+    background: #01AEE7;
+    padding: 21px 53px;
+}
+
+.service h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    color: white;
+}
+
+.service p {
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: white;
+}
+
+hr {
+    width: 243px;
+    color: yellow;
+    border: solid 1px yellow;
+    margin: 17px 0;
+}
+
+.email {
+    background-image: url(./home5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 805px;
+    padding-top: 127px;
+}
+
+.inp {
+    width: 505px;
+    height: 552px;
+    background-color: white;
+    margin: 0px auto;
+    padding: 40px 28px;
+}
+
+.email h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+}
+
+.email p {
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    margin-top: 27px;
+}
+
+.email input {
+    width: 450px;
+    height: 42px;
+    background: #F0F0F0;
+    border: none;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    padding-left: 27px;
+    margin-top: 24px;
+}
+
+.btn1 {
+    width: 450px;
+    height: 46px;
+    background: #01AEE7;
+    border: none;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 26px;
+}
+
+.email h4 {
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: rgb(86, 84, 84);
+    margin-top: 22px;
+}
